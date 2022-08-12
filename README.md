@@ -1,8 +1,11 @@
 ## Angular Şifre Olusturucu
 
-Angular ile random şifre oluşturan basit bir proje yaptım
+Angular ile random şifre oluşturan basit bir proje yaptım <br>
+<br>
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/108146039/184370345-379eabe6-bd30-4982-acd8-9d86b43f4067.gif)
 
-![Angular - Şifre Oluşturucu](https://user-images.githubusercontent.com/108146039/183089473-7a7e7771-0c93-49d7-a859-d983f55da225.png)
+
+
 
 <br>
 
